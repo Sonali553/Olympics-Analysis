@@ -1,2 +1,2 @@
-# Olympics-Analysis
-Skill India Internship Assignment
+# Olympics-Analysis Assignment
+Skill-India-AI-ML-Internship 
